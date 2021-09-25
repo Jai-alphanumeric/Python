@@ -7,5 +7,5 @@ def invertion(a, b):
         print(a[0])
 
 
-string_to_inert = input('Enter the String : ')
-invertion(string_to_inert, len(string_to_inert) - 1)
+string_to_invert = input('Enter the String : ')
+invertion(string_to_invert, len(string_to_invert) - 1)
